@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40376ucmf_2_0005.png"; bbox 0 0 2394 3320; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 27 187 472 334">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 27 187 472 334">
+     <span class='ocr_line' id='line_1_1' title="bbox 27 187 472 334; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 27 187 276 334; x_wconf 78' lang='lat' dir='ltr'>ilmed</span> <span class='ocrx_word' id='word_1_2' title='bbox 316 187 472 333; x_wconf 79' lang='lat' dir='ltr'>For</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 446 776 917">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 446 776 917">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 446 776 756; baseline -0.009 -110"><span class='ocrx_word' id='word_1_3' title='bbox 0 597 10 670; x_wconf 67' lang='grc'>,</span> <span class='ocrx_word' id='word_1_4' title='bbox 99 448 223 756; x_wconf 54' lang='grc' dir='ltr'>οξ</span> <span class='ocrx_word' id='word_1_5' title='bbox 262 446 776 693; x_wconf 81' lang='lat' dir='ltr'>Chicaqo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 25 769 374 917; baseline -0.009 0"><span class='ocrx_word' id='word_1_6' title='bbox 25 769 374 917; x_wconf 72' lang='lat' dir='ltr'><strong>rames</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 12 1918 618 2101">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 12 1918 618 2101">
+     <span class='ocr_line' id='line_1_4' title="bbox 12 1918 618 2101; baseline -0.018 -29"><span class='ocrx_word' id='word_1_7' title='bbox 12 1964 117 2101; x_wconf 83' lang='lat' dir='ltr'>m,</span> <span class='ocrx_word' id='word_1_8' title='bbox 158 1924 290 2069; x_wconf 84' lang='grc' dir='ltr'>ΡΑ</span> <span class='ocrx_word' id='word_1_9' title='bbox 353 1918 618 2066; x_wconf 78' lang='grc'>18017</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 2285 538 2635">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 2285 538 2635">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 2285 538 2470; baseline 0.015 -53"><span class='ocrx_word' id='word_1_10' title='bbox 0 2347 17 2417; x_wconf 79' lang='lat'><em>=</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 68 2285 538 2470; x_wconf 82' lang='lat' dir='ltr'>operators</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 12 2487 386 2635; baseline -0.02 1.455"><span class='ocrx_word' id='word_1_12' title='bbox 12 2487 386 2635; x_wconf 79' lang='lat' dir='ltr'>Kuhns</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 17 2715 299 2863">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 17 2715 299 2863">
+     <span class='ocr_line' id='line_1_7' title="bbox 17 2715 299 2863; baseline -0.018 0"><span class='ocrx_word' id='word_1_13' title='bbox 17 2721 60 2863; x_wconf 95' lang='grc' dir='ltr'>ΙΙ</span> <span class='ocrx_word' id='word_1_14' title='bbox 101 2715 299 2862; x_wconf 78' lang='lat' dir='ltr'>Frie!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1202 3320">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1202 3320">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1202 3320; baseline 0 4"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1202 3320; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
